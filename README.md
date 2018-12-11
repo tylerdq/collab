@@ -14,8 +14,8 @@ As I see it, the benefits of using Git to write with others include:
 
 I would like to experiment alongside others interested in using Git to support writing collaborations. As such, this repository is simply a seed that may grow in as yet untold ways. I offer a few potential GitHub-based options for those interested in exploring further with me:
 
-1. Contribute ideas and/or concerns to the project [Issues](https://github.com/tylerdq/write/issues).  
-2. Add your information to the [Collaborators](https://github.com/tylerdq/write/wiki/Collaborators) page of this repository's wiki.  
+1. Contribute ideas and/or concerns to the project [Issues](https://github.com/tylerdq/collab/issues).  
+2. Add your information to the [Collaborators](https://github.com/tylerdq/collab/wiki/Collaborators) page of this repository's wiki.  
 3. Use the "Fork" button above, make changes to the respository, and [submit a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).  
 
 I am not necessarily set on GitHub as a platform, and would be interested in exploring additional options including but not limited to the following:
