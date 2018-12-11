@@ -1,14 +1,14 @@
 # Inviting writing collaborations via Git
 
-As a [digital rhetorician](https://en.wikipedia.org/wiki/Digital_rhetoric), I am interested in how writing collaborations and digital technologies shape each other. [Git](https://git-scm.com/) enjoys nearly ubiquitous usage in software development collaborations but seems to have limited uptake in the digital humanities, potentially due to [perceived opacity](http://digitalhumanities.org/answers/topic/how-ready-are-dhers-to-use-github-for-non-code-projects) of this technical system.
+As a [digital rhetorician](https://en.wikipedia.org/wiki/Digital_rhetoric), I am interested in how writing collaborations and digital technologies shape each other. [Git](https://git-scm.com/) enjoys nearly ubiquitous usage in software development but seems to have limited uptake in the digital humanities, potentially due to [perceived opacity](http://digitalhumanities.org/answers/topic/how-ready-are-dhers-to-use-github-for-non-code-projects) of this technical system.
 
 ## Benefits of Git for writing collaborations
 
 As I see it, the benefits of using Git to write with others include:
 
 1. Emphasizing transparency (changes to work can be easily audited).  
-2. Branching between different states of a project (potentially less anxiety at editing crossroads).  
-3. Shifting when and how writing becomes valuable (the product is its own history, not just the most recent version).  
+2. Branching/merging between different states of a project (potentially less anxiety at editing crossroads).  
+3. Shifting when and how writing is valued (the product is its own history, not just the most recent version).  
 
 ## Options for involvement
 
