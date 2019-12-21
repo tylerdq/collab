@@ -1,6 +1,6 @@
 # Inviting writing collaborations via Git
 
-As a [digital rhetorician](https://en.wikipedia.org/wiki/Digital_rhetoric), I am interested in how writing collaborations and digital technologies shape each other. [Git](https://git-scm.com/) enjoys nearly ubiquitous usage in software development but seems to have limited uptake in the digital humanities, potentially due to [perceived opacity](http://digitalhumanities.org/answers/topic/how-ready-are-dhers-to-use-github-for-non-code-projects) of this technical system.
+As a [digital rhetorician](https://en.wikipedia.org/wiki/Digital_rhetoric), I am interested in how writing collaborations and digital technologies shape each other. [Git](https://git-scm.com/) enjoys nearly ubiquitous usage in software development but seems to have limited uptake in the digital humanities, potentially due to barriers of access due to the [learning curve](https://dh2016.adho.org/abstracts/225) of this technical system.
 
 ## Benefits of Git for writing collaborations
 
